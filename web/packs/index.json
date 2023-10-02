@@ -1,6 +1,7 @@
 {
   "packs": [
-    "StrangeAnimeStickers.json"
+    "StrangeAnimeStickers.json",
+    "Shelter.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
